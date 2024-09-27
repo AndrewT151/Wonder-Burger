@@ -1,0 +1,1 @@
+To prevent merge conflicts better coordination could be done by assigning each member specific ingredients beforehand and giving them a certain area of the code to work in as a means of preventing conflict. 
